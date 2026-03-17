@@ -1,0 +1,18 @@
+{
+    "title": "Forest Underground",
+    "subtitle": "Superfast JSON powered website",
+    "sections": [
+        {
+            "title": "About",
+            "text": "This website template loads content from a JSON file."
+        },
+        {
+            "title": "Fast",
+            "text": "No frameworks. No build tools. Pure HTML and JavaScript."
+        },
+        {
+            "title": "Flexible",
+            "text": "Change the JSON file to update your website."
+        }
+    ]
+}
