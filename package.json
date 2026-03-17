@@ -1,0 +1,25 @@
+{
+  "name": "forest-underground",
+  "version": "1.0.0",
+  "description": "Forest Underground is a minimal, super-fast website template designed for static content driven by a JSON file.",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidpolakowski/forest-underground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dawidpolakowski/forest-underground/issues"
+  },
+  "homepage": "https://github.com/dawidpolakowski/forest-underground#readme",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
