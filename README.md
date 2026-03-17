@@ -46,7 +46,7 @@ This allows easy content updates without editing HTML.
 
 
 ## Example JSON Content
-
+```
 {
   "title": "Forest Underground",
   "subtitle": "Minimal JSON powered website",
@@ -65,7 +65,7 @@ This allows easy content updates without editing HTML.
     }
   ]
 }
-
+```
 
 ## Running the Project
 
