@@ -100,6 +100,11 @@ Everything should remain readable and easy to modify.
 
 MIT License
 
+## Screenshots
+
+![Performance Screenshot 1](img/Performance1.png)
+
+![Performance Screenshot 2](img/Performance2.png)
 
 ## Author
 
