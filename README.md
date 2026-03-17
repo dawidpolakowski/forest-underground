@@ -92,6 +92,9 @@ Forest Underground follows three principles:
 
 Everything should remain readable and easy to modify.
 
+## Live Demo
+
+[Open the demo](https://dawidpolakowski.github.io/forest-underground/)
 
 ## License
 
